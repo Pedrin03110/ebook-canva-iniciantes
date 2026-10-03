@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Canva para Iniciantes</title>
+    <title>Canva para Iniciantes - Ebook Completo</title>
     <meta
       name="description"
       content="Ebook Canva para Iniciantes: aprenda a criar posts, apresentações e materiais profissionais."
@@ -15,6 +15,161 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
+    <style>
+      .ebook-comprar {
+        padding: 80px 0;
+        background: linear-gradient(135deg, #f7f3ff 0%, #ffffff 100%);
+      }
+
+      .compra-box {
+        display: grid;
+        grid-template-columns: 0.9fr 1.1fr;
+        gap: 40px;
+        align-items: center;
+        background: #fff;
+        border: 1px solid #eee1ff;
+        border-radius: 24px;
+        padding: 32px;
+        box-shadow: 0 18px 40px rgba(112, 76, 255, 0.08);
+      }
+
+      .capa-ebook {
+        width: 100%;
+        max-width: 360px;
+        min-height: 460px;
+        border-radius: 22px;
+        background: linear-gradient(135deg, #6d4aff 0%, #f25fb7 100%);
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 30px;
+        box-shadow: 0 18px 40px rgba(109, 74, 255, 0.25);
+      }
+
+      .tag {
+        display: inline-block;
+        background: rgba(255,255,255,0.12);
+        border: 1px solid rgba(255,255,255,0.2);
+        padding: 8px 14px;
+        border-radius: 999px;
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        margin-bottom: 20px;
+      }
+
+      .capa-ebook h3 {
+        font-size: 2.2rem;
+        line-height: 1.1;
+        margin-bottom: 12px;
+      }
+
+      .capa-ebook p {
+        font-size: 1rem;
+        opacity: 0.9;
+      }
+
+      .compra-info {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .mini-tag {
+        display: inline-block;
+        background: #f1ebff;
+        color: #5c32db;
+        border-radius: 999px;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 8px 14px;
+        width: fit-content;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+      }
+
+      .compra-info h2 {
+        font-size: clamp(2rem, 3vw, 3rem);
+        line-height: 1.1;
+        margin: 18px 0 22px;
+        color: #1e1b2e;
+      }
+
+      .lista-beneficios {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 20px;
+        display: grid;
+        gap: 12px;
+        font-size: 1.05rem;
+        color: #2e2d38;
+      }
+
+      .lista-beneficios li {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .preco-box {
+        display: flex;
+        align-items: baseline;
+        gap: 14px;
+        margin: 10px 0 24px;
+        flex-wrap: wrap;
+      }
+
+      .de {
+        color: #8e8a9c;
+        font-size: 1.1rem;
+        text-decoration: line-through;
+      }
+
+      .por {
+        color: #5c32db;
+        font-size: 2.5rem;
+        font-weight: 800;
+      }
+
+      .btn-compra {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: fit-content;
+        background: linear-gradient(135deg, #6d4aff 0%, #ff5ec9 100%);
+        color: white;
+        font-weight: 800;
+        font-size: 1.1rem;
+        padding: 18px 32px;
+        border-radius: 14px;
+        text-decoration: none;
+        box-shadow: 0 12px 28px rgba(109, 74, 255, 0.25);
+        transition: transform 0.2s ease;
+      }
+
+      .btn-compra:hover {
+        transform: translateY(-2px);
+      }
+
+      .seguranca {
+        margin-top: 18px;
+        color: #69657b;
+        font-size: 0.95rem;
+      }
+
+      @media (max-width: 768px) {
+        .compra-box {
+          grid-template-columns: 1fr;
+          padding: 20px;
+        }
+
+        .btn-compra {
+          width: 100%;
+        }
+      }
+    </style>
   </head>
   <body>
     <header class="topbar">
@@ -23,8 +178,7 @@
         <nav>
           <a href="#sobre">Sobre</a>
           <a href="#aprenda">Aprenda</a>
-          <a href="#beneficios">Benefícios</a>
-          <a href="#comprar" class="btn btn-small">Comprar</a>
+          <a href="#comprar" class="btn btn-small btn-primary">Acessar ebook</a>
         </nav>
       </div>
     </header>
@@ -99,43 +253,43 @@
         </div>
       </section>
 
-      <section id="beneficios" class="section">
-        <div class="container">
-          <div class="section-header">
-            <span class="section-tag">Por que este ebook</span>
-            <h2>Benefícios para você</h2>
+      <section id="comprar" class="ebook-comprar">
+        <div class="container compra-box">
+          <div class="compra-imagem">
+            <div class="capa-ebook">
+              <span class="tag">EBOOK</span>
+              <h3>Canva para Iniciantes</h3>
+              <p>Como criar posts, apresentações e materiais</p>
+            </div>
           </div>
 
-          <div class="feature-list">
-            <div class="feature-item">
-              <strong>Fácil de entender</strong>
-              <p>Conteúdo em linguagem simples para iniciantes.</p>
-            </div>
-            <div class="feature-item">
-              <strong>Prático</strong>
-              <p>Foco em ferramentas e passos que você pode aplicar imediatamente.</p>
-            </div>
-            <div class="feature-item">
-              <strong>Profissional</strong>
-              <p>Ensina como criar materiais com visual mais forte e organizado.</p>
-            </div>
-            <div class="feature-item">
-              <strong>Útil no dia a dia</strong>
-              <p>Perfeito para redes sociais, estudos, trabalho e divulgação de negócios.</p>
-            </div>
-          </div>
-        </div>
-      </section>
+          <div class="compra-info">
+            <span class="mini-tag">Aprenda do zero</span>
+            <h2>Seu guia prático para criar materiais visuais profissionais no Canva</h2>
 
-      <section id="comprar" class="section cta-section">
-        <div class="container cta-box">
-          <div>
-            <span class="section-tag">Oferta</span>
-            <h2>Comece agora a criar conteúdos profissionais no Canva</h2>
+            <ul class="lista-beneficios">
+              <li>✓ Como criar posts para redes sociais</li>
+              <li>✓ Como montar apresentações bonitas</li>
+              <li>✓ Como criar materiais para divulgar seu trabalho</li>
+              <li>✓ Dicas para usar o Canva sem complicação</li>
+            </ul>
+
+            <div class="preco-box">
+              <span class="de">R$ 49,90</span>
+              <span class="por">GRATUITO</span>
+            </div>
+
+            <a
+              href="https://raw.githubusercontent.com/Pedrin03110/ebook-canva-iniciantes/main/ebook-canva-para-iniciantes.md"
+              class="btn-compra"
+              target="_blank"
+              rel="noreferrer"
+            >
+              ACESSAR EBOOK AGORA
+            </a>
+
+            <p class="seguranca">Acesso imediato • Arquivo digital • Sem complicações</p>
           </div>
-          <a href="https://github.com/Pedrin03110/ebook-canva-iniciantes" class="btn btn-primary" target="_blank" rel="noreferrer">
-            Acessar o ebook
-          </a>
         </div>
       </section>
     </main>
