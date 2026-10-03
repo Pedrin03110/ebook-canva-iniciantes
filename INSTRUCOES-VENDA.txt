@@ -1,0 +1,348 @@
+═════════════════════════════════════════════════════════════════════════════════
+              INSTRUÇÕES PARA VENDER ESTE EBOOK
+═════════════════════════════════════════════════════════════════════════════════
+
+Este arquivo contém o ebook "Canva para Iniciantes" pronto para ser vendido.
+
+Abaixo você encontra instruções de como usar este material para gerar receita.
+
+
+1. ONDE VENDER ESTE EBOOK
+═════════════════════════════════════════════════════════════════════════════════
+
+Opção 1: HOTMART
+URL: www.hotmart.com
+- Maior plataforma de vendas de produtos digitais em português
+- Pode vender por qualquer preço
+- Hotmart faz a gestão de pagamentos
+- Você recebe por depósito bancário
+- Ideal para iniciantes
+
+Opção 2: GUMROAD
+URL: www.gumroad.com
+- Plataforma internacional
+- Fácil de usar
+- Suporta vários idiomas
+- Você controla totalmente o preço
+- Bom para vender direto
+
+Opção 3: SELLER CENTRAL (SEU PRÓPRIO SITE)
+- Crie seu próprio site com Wix, Squarespace, WordPress
+- Integre com sistemas de pagamento (PayPal, Stripe)
+- Total controle do preço e marketing
+- Mais trabalhoso, mas maior margem
+
+Opção 4: KWANKO
+URL: www.kwanko.com
+- Plataforma para infoprodutos
+- Fácil integração
+- Bom sistema de afiliados
+- Comunidade de vendedores
+
+Opção 5: SEUS PRÓPRIOS CANAIS
+- Email marketing
+- Redes sociais
+- Blog ou site pessoal
+- Comunidades online
+
+
+2. PREÇO SUGERIDO
+═════════════════════════════════════════════════════════════════════════════════
+
+Opção A: GRATUITO
+- Sugestão de preço: R$ 0,00
+- Melhor para: capturar emails, crescer audiência, criar autoridade
+- Estratégia: vender algo mais caro depois (curso, consultoria)
+
+Opção B: ENTRY LEVEL (INICIANTE)
+- Sugestão de preço: R$ 17,00 a R$ 29,00
+- Melhor para: acessibilidade, volume de vendas
+- Expectativa: vender bastante
+
+Opção C: MÉDIO
+- Sugestão de preço: R$ 39,00 a R$ 57,00
+- Melhor para: equilibrar preço e volume
+- Expectativa: vendas saudáveis
+
+Opção D: PREMIUM
+- Sugestão de preço: R$ 67,00 a R$ 97,00
+- Melhor para: posicionar como exclusivo
+- Expectativa: vendas menores, margem maior
+
+NOSSA RECOMENDAÇÃO:
+R$ 27,00 (entry level)
+Ou
+R$ 47,00 (preço médio com desconto early bird)
+
+Justificativa:
+- Acessível para iniciantes
+- Valor percebido é bom
+- Volume de vendas adequado
+- Margem de lucro satisfatória
+
+
+3. COMO PREPARAR PARA VENDER
+═════════════════════════════════════════════════════════════════════════════════
+
+PASSO 1: CONVERTER PARA PDF
+
+O ebook está em arquivo TXT.
+Precisa converter para PDF para ficar profissional.
+
+Como fazer:
+- Abra o arquivo no Word
+- Salve como PDF
+Ou
+- Use www.smallpdf.com (gratuito)
+- Upload do arquivo
+- Download como PDF
+
+
+PASSO 2: CRIAR UMA CAPA
+
+Use o Canva para criar capa do ebook:
+
+1. Abra Canva.com
+2. Procure por "Ebook Cover"
+3. Crie com:
+   - Título: "Canva para Iniciantes"
+   - Subtítulo: "Como criar posts, apresentações e materiais"
+   - Suas cores (roxo + rosa é bom)
+   - Ícones relacionados a design
+   - Export como PNG
+
+
+PASSO 3: CRIAR DESCRIÇÃO DE VENDA
+
+Use este texto como base (customize conforme quiser):
+
+---INÍCIO---
+
+🎨 CANVA PARA INICIANTES 🎨
+Guia Completo Para Criar Designs Profissionais Sem Experiência
+
+Aprenda a criar:
+✓ Posts bonitos para Instagram, Facebook e redes sociais
+✓ Apresentações profissionais que impressionam
+✓ Materiais visuais para divulgar seu trabalho e negócio
+✓ Designs de qualidade em minutos
+
+SEM precisar de:
+✗ Photoshop ou softwares caros
+✗ Conhecimento prévio em design
+✗ Experiência técnica
+
+Com este ebook você vai aprender:
+
+• O que é Canva e por que todos devem aprender
+• Passo a passo para criar sua primeira peça
+• Como criar posts que chamam atenção
+• Como montar apresentações profissionais
+• Como fazer materiais para vender ou divulgar
+• Princípios de design simples e eficazes
+• Erros comuns (e como evitá-los)
+• Truques para ganhar tempo
+• Checklist de design para não errar
+
+PERFEITO PARA:
+- Quem quer aprender Canva do zero
+- Pequenos negócios e freelancers
+- Criadores de conteúdo
+- Professores e educadores
+- Qualquer pessoa que precisa criar materiais visuais
+
+ACESSO IMEDIATO ao PDF completo.
+Leia quantas vezes quiser.
+
+---FIM---
+
+
+PASSO 4: CRIAR UMA PÁGINA DE VENDAS
+
+Se vai vender em sua própria plataforma:
+
+Usando CANVA:
+1. Novo design → "Página Web"
+2. Crie seções com:
+   - Capa e título
+   - Benefícios
+   - O que inclui
+   - Preço
+   - Botão de compra
+3. Export como HTML
+
+Ou use WordPress + plugin de vendas (WooCommerce, Easy Digital Downloads)
+
+
+PASSO 5: CONFIGURAR PAGAMENTO
+
+Se usar Hotmart:
+- Crie conta
+- Faça upload do PDF
+- Configure preço
+- Configure comissão (Hotmart pega ~15%)
+- Ative para venda
+- Compartilhe link
+
+Se usar seu próprio site:
+- Integre PayPal ou Stripe
+- Configure produto digital
+- Teste compra
+- Ativa
+
+
+4. COMO DIVULGAR E VENDER
+═════════════════════════════════════════════════════════════════════════════════
+
+ESTRATÉGIA 1: REDES SOCIAIS
+
+Instagram:
+- Poste conteúdo sobre design 3-4 vezes por semana
+- Use Stories com link para ebook
+- Faça Reels ensinando dicas
+- Link na bio
+
+Facebook:
+- Crie página da seu ebook
+- Faça anúncios para públicos interessados
+- Post orgânicos com dicas
+
+LinkedIn:
+- Postaje sobre produtividade e design
+- Fale sobre aprender ferramentas
+- Compartilhe testimoniais
+
+
+ESTRATÉGIA 2: EMAIL MARKETING
+
+- Crie landing page para capturar emails
+- Ofereça uma amostra grátis do ebook
+- Envie 3-5 emails com dicas
+- Último email: oferta do ebook completo
+
+Use: MailChimp (gratuito até 500 contatos)
+
+
+ESTRATÉGIA 3: CONTEÚDO GRATUITO
+
+- Crie blog posts sobre Canva
+- Faça vídeos no YouTube
+- Crie infográficos sobre design
+- Compartilhe nos fóruns relevantes
+
+Tudo levando para seu ebook.
+
+
+ESTRATÉGIA 4: AFILIADOS
+
+Em Hotmart:
+- Seu ebook tem programa de afiliados automático
+- Pessoas ganham 30-50% de comissão se venderem
+- Eles divulgam pra você
+
+Apenas com isso você aumenta bastante vendas.
+
+
+ESTRATÉGIA 5: COMUNIDADES ONLINE
+
+- Facebook Groups sobre design
+- Reddit (r/design, r/Portuguese)
+- Discord servidores de criadores
+- Comunidades no Telegram
+
+Compartilhe valor. Depois venda.
+
+
+5. EXEMPLOS DE COPYWRITING PARA ANÚNCIOS
+═════════════════════════════════════════════════════════════════════════════════
+
+Anúncio 1 (Facebook/Instagram):
+---
+Cansado de pedir ajuda para fazer seus posts? 😅
+
+Aprender Canva não é tão complicado quanto parece.
+
+Este ebook te ensina tudo:
+✓ Posts bonitos em minutos
+✓ Apresentações profissionais
+✓ Materiais visuais de verdade
+
+Sem gastar com designer.
+Sem frustração.
+Sem complicação.
+
+Link na bio →
+---
+
+Anúncio 2 (Email):
+---
+Oi,
+
+Te conheço desde quando você tava começando com redes sociais.
+
+E sempre perguntava: "Como faço um post bonito?"
+
+Bem, criei algo que te ajuda com isso.
+
+Em apenas algumas horas lendo este ebook, você vai entender Canva.
+E vai criar peças incríveis.
+
+Clique aqui para conhecer →
+---
+
+
+6. DEPOIS DE VENDER
+═════════════════════════════════════════════════════════════════════════════════
+
+PEDIR FEEDBACK:
+- Email automático após venda pedindo opinião
+- Pergunte o que achou
+- Pergunte como melhorar
+
+CRIAR COMUNIDADE:
+- Crie grupo no Facebook para compradores
+- Compartilhe dicas adicionais
+- Faça lives ensinando
+
+VENDER MAIS:
+- Crie um curso mais profundo (cobrado mais caro)
+- Crie templates prontos para usar
+- Ofereça serviço de design consultoria
+
+
+7. ESTIMATIVA DE GANHO
+═════════════════════════════════════════════════════════════════════════════════
+
+Cenário: Vender a R$ 27,00 (Hotmart)
+
+Hotmart cobra aproximadamente 15% + taxa de payment
+Você fica com aproximadamente 70% por venda
+= R$ 18,90 de lucro por venda
+
+Exemplos:
+- 10 vendas/mês = R$ 189,00
+- 50 vendas/mês = R$ 945,00
+- 100 vendas/mês = R$ 1.890,00
+- 500 vendas/mês = R$ 9.450,00
+
+Se aumentar para R$ 47,00:
+- Lucro por venda ≈ R$ 33,00
+- 100 vendas/mês = R$ 3.300,00
+
+
+8. PRÓXIMOS PASSOS
+═════════════════════════════════════════════════════════════════════════════════
+
+1. Escolha plataforma (recomendação: Hotmart)
+2. Converta para PDF com capa bonita
+3. Crie descrição de vendas atrativa
+4. Configure e ativa
+5. Comece a divulgar (comece por email e redes sociais)
+6. Monitore vendas
+7. Melhore conforme feedback
+
+
+═════════════════════════════════════════════════════════════════════════════════
+                              BOA SORTE! 🚀
+             Você tem um produto de qualidade. Agora é só vender.
+═════════════════════════════════════════════════════════════════════════════════
